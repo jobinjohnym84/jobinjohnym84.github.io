@@ -24,7 +24,7 @@ class AboutMeText extends StatelessWidget {
       text: TextSpan(children: [
         TextSpan(
           text:
-              "Hi There! I'm Jobin Johny, a Techno Manager and a Technology Enthusiast based in Kerala, India.\n\nI have been managing different Projects for over 15 years now, I develop applications and websites as well. I have worked with various teams to finalize their software architecture, as open source contributor at GitHub and got valuable learning experience.\n\nRight now I'm working for an MNC and managing different customers from ",
+              "Hi There! I'm Jobin Johny, •	Technical Lead with over Fourteen years of software implementation experience in Microsoft technologies, including enterprise applications and COTS product implementations.\n\n•	Deep exposure in IT consulting, Project/Delivery Management, Relationship management, Risk management, Planning, Monitoring, Software Design and Development. •	Hands own experience in the development and implementation of Blockchain projects.\n\nRight now I'm working for an MNC and managing different customers from ",
           style: MediaQuery.of(context).size.width < 600
               ? _textStyle(fontSize, false)
               : _textStyle(fontSize + 2, false),

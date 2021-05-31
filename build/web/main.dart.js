@@ -57607,7 +57607,7 @@ D:function(a,b){var s,r,q,p=this,o=null,n=p.c
 if(n==null)n=C.d1
 s=t.w
 r=p.d
-q=Q.w2(o,b.E(s).f.a.a<600?p.pL(r,!1):p.pL(r+2,!1),"Hi There! I'm Jobin Johny, a Techno Manager and a Technology Enthusiast based in Kerala, India.\n\nI have been managing different Projects for over 15 years now, I develop applications and websites as well. I have worked with various teams to finalize their software architecture, as open source contributor at GitHub and got valuable learning experience.\n\nRight now I'm working for an MNC and managing different customers from ")
+q=Q.w2(o,b.E(s).f.a.a<600?p.pL(r,!1):p.pL(r+2,!1),"Hi There! I'm Jobin Johny, \u2022\tTechnical Lead with over Fourteen years of software implementation experience in Microsoft technologies, including enterprise applications and COTS product implementations.\n\n\u2022\tDeep exposure in IT consulting, Project/Delivery Management, Relationship management, Risk management, Planning, Monitoring, Software Design and Development. \u2022\tHands own experience in the development and implementation of Blockchain projects.\n\nRight now I'm working for an MNC and managing different customers from ")
 return T.aa9(o,o,C.bE,!0,o,Q.w2(H.b([q,Q.w2(o,b.E(s).f.a.a<600?p.pL(r,!0):p.pL(r+2,!0),"Kochi, Kerala, India")],t.cn),o,o),n,o,o,1,C.aE)}}
 Q.qU.prototype={
 ak:function(){return new Q.H5(C.k)}}
