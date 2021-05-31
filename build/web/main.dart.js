@@ -57607,7 +57607,7 @@ D:function(a,b){var s,r,q,p=this,o=null,n=p.c
 if(n==null)n=C.d1
 s=t.w
 r=p.d
-q=Q.w2(o,b.E(s).f.a.a<600?p.pL(r,!1):p.pL(r+2,!1),"Hi There! I'm Jobin Johny, Technical Manager with over Fourteen years of software implementation experience in Microsoft technologies, including enterprise applications and COTS product implementations.\n\n Deep exposure in IT consulting, Project/Delivery Management, Relationship management, Risk management, Planning, Monitoring, Software Design and Development. Hands own experience in the development and implementation of Blockchain projects.\n\nRight now I'm working for an MNC and managing different customers from ")
+q=Q.w2(o,b.E(s).f.a.a<600?p.pL(r,!1):p.pL(r+2,!1),"Hi There! I'm Jobin Johny, Technical Manager with over Fourteen years of software implementation experience in Microsoft technologies, including enterprise applications and COTS product implementations.\n\n Deep exposure in IT consulting, Project/Delivery Management, Relationship management, Risk management, Planning, Monitoring, Software Design and Development. Hands own experience in the development and implementation of Blockchain projects.\n\n Managing external vendors, technical teams of project leaders, solution architects, support and test engineers.Exposure to Bigdata and various data analytics and BI platforms\n\nRight now I'm working for an MNC and managing different customers from ")
 return T.aa9(o,o,C.bE,!0,o,Q.w2(H.b([q,Q.w2(o,b.E(s).f.a.a<600?p.pL(r,!0):p.pL(r+2,!0),"Kochi, Kerala, India")],t.cn),o,o),n,o,o,1,C.aE)}}
 Q.qU.prototype={
 ak:function(){return new Q.H5(C.k)}}
