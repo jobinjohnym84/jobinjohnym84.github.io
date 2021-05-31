@@ -61,7 +61,7 @@ final kServicesTitles = [
 ];
 
 final kServicesDescriptions = [
-  "Full stack developer with multiple Technology capabilites. I dont have a developer license, so these apps are residing in my iPhone, iPad, Mac and Apple TV. Hopefully this missing piece will be filled soon :)",
+  "Full stack developer with multiple Technology capabilites. I dont have a developer license, so these apps are residing in my iDevices. Hopefully this missing piece will be filled soon :)",
   "Managing different Programs and provide ontime implementations within the defnied budget and time.",
   "Having a startup idea? Or maybe just want a prototype for your clients? I can help you to create prototypes.",
   "I have been writing technical blogs on Medium.\nCheck out my Medium profile @jobinjohnym84",

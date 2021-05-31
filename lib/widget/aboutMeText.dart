@@ -24,7 +24,7 @@ class AboutMeText extends StatelessWidget {
       text: TextSpan(children: [
         TextSpan(
           text:
-              "Hi There! I'm Jobin Johny, Technical Lead with over Fourteen years of software implementation experience in Microsoft technologies, including enterprise applications and COTS product implementations.\n\n Deep exposure in IT consulting, Project/Delivery Management, Relationship management, Risk management, Planning, Monitoring, Software Design and Development. Hands own experience in the development and implementation of Blockchain projects.\n\nRight now I'm working for an MNC and managing different customers from ",
+              "Hi There! I'm Jobin Johny, Technical Manager with over Fourteen years of software implementation experience in Microsoft technologies, including enterprise applications and COTS product implementations.\n\n Deep exposure in IT consulting, Project/Delivery Management, Relationship management, Risk management, Planning, Monitoring, Software Design and Development. Hands own experience in the development and implementation of Blockchain projects.\n\nRight now I'm working for an MNC and managing different customers from ",
           style: MediaQuery.of(context).size.width < 600
               ? _textStyle(fontSize, false)
               : _textStyle(fontSize + 2, false),
