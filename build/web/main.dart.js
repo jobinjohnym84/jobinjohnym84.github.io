@@ -57607,7 +57607,7 @@ D:function(a,b){var s,r,q,p=this,o=null,n=p.c
 if(n==null)n=C.d1
 s=t.w
 r=p.d
-q=Q.w2(o,b.E(s).f.a.a<600?p.pL(r,!1):p.pL(r+2,!1),"Hi There! I'm Jobin Johny, \u2022\tTechnical Lead with over Fourteen years of software implementation experience in Microsoft technologies, including enterprise applications and COTS product implementations.\n\n\u2022\tDeep exposure in IT consulting, Project/Delivery Management, Relationship management, Risk management, Planning, Monitoring, Software Design and Development. \u2022\tHands own experience in the development and implementation of Blockchain projects.\n\nRight now I'm working for an MNC and managing different customers from ")
+q=Q.w2(o,b.E(s).f.a.a<600?p.pL(r,!1):p.pL(r+2,!1),"Hi There! I'm Jobin Johny, Technical Lead with over Fourteen years of software implementation experience in Microsoft technologies, including enterprise applications and COTS product implementations.\n\n Deep exposure in IT consulting, Project/Delivery Management, Relationship management, Risk management, Planning, Monitoring, Software Design and Development. Hands own experience in the development and implementation of Blockchain projects.\n\nRight now I'm working for an MNC and managing different customers from ")
 return T.aa9(o,o,C.bE,!0,o,Q.w2(H.b([q,Q.w2(o,b.E(s).f.a.a<600?p.pL(r,!0):p.pL(r+2,!0),"Kochi, Kerala, India")],t.cn),o,o),n,o,o,1,C.aE)}}
 Q.qU.prototype={
 ak:function(){return new Q.H5(C.k)}}
@@ -62443,10 +62443,10 @@ $.ahP=null
 $.aby=[]
 $.abx=H.b(["https://www.comsats.edu.pk/","https://web.facebook.com/FlutterIslamabadPakistan/","https://dsc.community.dev/comsats-university-islamabad/"],t.i)
 $.atT=H.b([".Net","Python","Tableau","BigData","MongoDB","SQL"],t.i)
-$.ahA=H.b(["HTML","CSS","Bootstrap","Flutter","JQuery","ASP"],t.i)
+$.ahA=H.b(["Ethereum","Flutter","Bootstrap","CSS","JQuery","HTML"],t.i)
 $.z1=H.b(["assets/services/app.png","assets/services/ui.png","assets/services/rapid.png","assets/services/blog.png","assets/services/open.png"],t.i)
-$.z2=H.b(["Full App Development","UI/UX Designing","Rapid Prototyping","Technical Blog Writing","Open Source - GitHub"],t.i)
-$.z0=H.b(["Full stack developer with multiple Technology capabilites.For iOS and Android Apps I am using Flutter/Swift. I dont have a developer license, so these apps are residing in my iPhone, iPad, Mac and Apple TV. Hopefully this missing piece will be filled soon :)","Although I'm mainly a flutter developer but I do care about the UI/UX for my client. Hence, I also do UI designing for applications. So, feel free to ask me for getting you UI/UX for your apps","Having a startup idea? Or maybe just want a prototype for your clients? I can help you to create prototypes.","I have been writing technical blogs on Medium.\nCheck out my Medium profile @jobinjohnym84","Working as open source contributor on GitHub.\nCheck out my GitHub Profile @jobinjohnym84"],t.i)
+$.z2=H.b(["Full App Development","Program Management","Rapid Prototyping","Technical Blog Writing","Open Source - GitHub"],t.i)
+$.z0=H.b(["Full stack developer with multiple Technology capabilites.For iOS and Android Apps I am using Flutter/Swift. I dont have a developer license, so these apps are residing in my iPhone, iPad, Mac and Apple TV. Hopefully this missing piece will be filled soon :)","Managing different Programs and provide ontime implementations within the defnied budget and time.","Having a startup idea? Or maybe just want a prototype for your clients? I can help you to create prototypes.","I have been writing technical blogs on Medium.\nCheck out my Medium profile @jobinjohnym84","Working as open source contributor on GitHub.\nCheck out my GitHub Profile @jobinjohnym84"],t.i)
 $.a7U=H.b([C.il,C.im,C.nM],t.bY)
 $.a7V=H.b(["Location","Phone","Email"],t.i)
 $.a7T=H.b(["Virginia, USA","(+1) 202-538-3361","jobinjohnym84@gmail.com"],t.i)

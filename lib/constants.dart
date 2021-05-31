@@ -41,7 +41,7 @@ final kCommunityLinks = [
 // Tools & Tech
 final kTools = [".Net", "Python", "Tableau", "BigData", "MongoDB" , "SQL"];
 
-final kTools1 = ["HTML", "CSS", "Bootstrap", "Flutter" , "JQuery", "ASP"];
+final kTools1 = ["Ethereum", "Flutter", "Bootstrap", "CSS" , "JQuery", "HTML"];
 
 // services
 final kServicesIcons = [
@@ -54,7 +54,7 @@ final kServicesIcons = [
 
 final kServicesTitles = [
   "Full App Development",
-  "UI/UX Designing",
+  "Program Management",
   "Rapid Prototyping",
   "Technical Blog Writing",
   "Open Source - GitHub",
@@ -62,7 +62,7 @@ final kServicesTitles = [
 
 final kServicesDescriptions = [
   "Full stack developer with multiple Technology capabilites.For iOS and Android Apps I am using Flutter/Swift. I dont have a developer license, so these apps are residing in my iPhone, iPad, Mac and Apple TV. Hopefully this missing piece will be filled soon :)",
-  "Although I'm mainly a flutter developer but I do care about the UI/UX for my client. Hence, I also do UI designing for applications. So, feel free to ask me for getting you UI/UX for your apps",
+  "Managing different Programs and provide ontime implementations within the defnied budget and time.",
   "Having a startup idea? Or maybe just want a prototype for your clients? I can help you to create prototypes.",
   "I have been writing technical blogs on Medium.\nCheck out my Medium profile @jobinjohnym84",
   "Working as open source contributor on GitHub.\nCheck out my GitHub Profile @jobinjohnym84",
